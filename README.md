@@ -24,4 +24,7 @@ I'm looking for graduate roles in **cloud, platform and DevOps engineering**, an
 | [Sydney-Housing](https://github.com/rohitbondala277/Sydney-Housing) | Predicts sale prices for houses in three Sydney suburbs from a dataset I collected myself, served through a small Flask app | Python, scikit-learn, Flask |
 | [TraWell](https://github.com/rohitbondala277/TraWell) | AI trip planner that builds an itinerary from a destination, budget and group size | React, Gemini API, Firebase, Auth0 |
 
-Based in Melbourne, VIC.
+### Get in touch
+
+- LinkedIn: [linkedin.com/in/rohit-bondala](https://www.linkedin.com/in/rohit-bondala)
+- Based in Melbourne, VIC
