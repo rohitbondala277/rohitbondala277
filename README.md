@@ -27,8 +27,15 @@ Seeking graduate roles in **cloud, platform and DevOps engineering**, with full-
 | [Sydney-Housing](https://github.com/rohitbondala277/Sydney-Housing) | Random Forest model predicting Sydney property sale prices, served through a Flask app. Containerised with Docker, with Terraform for Azure Container Apps and a GitHub Actions pipeline that tests, builds and deploys using passwordless OIDC. | Python, scikit-learn, Docker, Terraform, Azure, GitHub Actions |
 | [TraWell](https://github.com/rohitbondala277/TraWell) | AI trip planner that generates day-by-day itineraries from destination, budget and group size, with Auth0 login and Firestore storage. | React, Gemini API, Firebase, Auth0 |
 
+### Problem Solving
+
+<a href="https://leetcode.com/u/rohitbondala/">
+  <img src="https://leetcard.jacoblin.cool/rohitbondala?theme=dark&font=Inter&ext=heatmap" alt="LeetCode stats for rohitbondala" />
+</a>
+
 ### Contact
 
 - LinkedIn: [linkedin.com/in/rohit-bondala](https://www.linkedin.com/in/rohit-bondala)
+- LeetCode: [leetcode.com/u/rohitbondala](https://leetcode.com/u/rohitbondala/)
 - Email: b27rohit@gmail.com
 - Based in Melbourne, VIC
