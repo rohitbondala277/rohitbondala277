@@ -27,6 +27,14 @@ Seeking graduate roles in **cloud, platform and DevOps engineering**, with full-
 | [Sydney-Housing](https://github.com/rohitbondala277/Sydney-Housing) | Random Forest model predicting Sydney property sale prices, served through a Flask app. Containerised with Docker, with Terraform for Azure Container Apps and a GitHub Actions pipeline that tests, builds and deploys using passwordless OIDC. | Python, scikit-learn, Docker, Terraform, Azure, GitHub Actions |
 | [TraWell](https://github.com/rohitbondala277/TraWell) | AI trip planner that generates day-by-day itineraries from destination, budget and group size, with Auth0 login and Firestore storage. | React, Gemini API, Firebase, Auth0 |
 
+### GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitbondala277&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub stats for rohitbondala277" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbondala277&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
+<img src="https://streak-stats.demolab.com?user=rohitbondala277&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
 ### Problem Solving
 
 <a href="https://leetcode.com/u/rohitbondala/">
