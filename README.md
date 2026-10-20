@@ -15,19 +15,20 @@ Seeking graduate roles in **cloud, platform and DevOps engineering**, with full-
 
 ### Experience
 
-- **IT Infrastructure Intern, Arla Foods (Bahrain):** hands-on with enterprise infrastructure and network support
-- **Software Intern, CreditMax:** full-stack work with Node.js and MySQL
+- **Software Intern, CreditMax** (Melbourne, Jan 2025 to Mar 2025): Built and deployed a 7-page full-stack company website with Node.js (Express), MySQL and REST APIs, reaching 110+ users.
+- **IT Infrastructure Intern, Arla Foods** (Bahrain, Dec 2022 to Jan 2023): Configured a fleet of 20+ enterprise tablets, resolved network connectivity issues across information board systems and provided day-to-day IT support.
 
 ### Projects
 
-| Project | What it is | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [Guardian](https://github.com/Gopher-Industries/Guardian/pulls?q=is%3Apr+author%3Arohitbondala277) | Team capstone at Gopher Industries. I built the patient billing and subscription pages for the admin dashboard, plus layout fixes in the Android app. My merged PRs are linked here. | React 19, Vite, Android |
-| [Smishing Detection App](https://github.com/Hardhat-Enterprises/smishing-frontend/pulls?q=is%3Apr+author%3Arohitbondala277) | Team Android app at Hardhat Enterprises that flags scam SMS messages. I built the detection analytics dashboard on the home screen, a password strength indicator, a report category dropdown and a phone number hint on the community page. 5 merged PRs. | Java, Android |
-| [Sydney-Housing](https://github.com/rohitbondala277/Sydney-Housing) | Predicts sale prices for houses in three Sydney suburbs from a dataset I collected myself, served through a small Flask app | Python, scikit-learn, Flask |
-| [TraWell](https://github.com/rohitbondala277/TraWell) | AI trip planner that builds an itinerary from a destination, budget and group size | React, Gemini API, Firebase, Auth0 |
+| [Guardian](https://github.com/Gopher-Industries/Guardian/pulls?q=is%3Apr+author%3Arohitbondala277) | Deakin capstone with Gopher Industries: an activity monitoring system for aged care. Frontend developer on the React admin dashboard; built the Reports, Billing and Subscription pages and a multi-step Add New Patient form. | React 19, Vite, Android |
+| [Smishing Detection App](https://github.com/Hardhat-Enterprises/smishing-frontend/pulls?q=is%3Apr+author%3Arohitbondala277) | Deakin capstone with Hardhat Enterprises: an Android app that detects SMS phishing. Frontend developer and team lead; built the detection analytics dashboard, a password strength indicator and community report improvements across 5 merged PRs. | Java, Android |
+| [Sydney-Housing](https://github.com/rohitbondala277/Sydney-Housing) | Random Forest model predicting Sydney property sale prices from a hand-collected dataset of 105 sales, served through a Flask web app. | Python, scikit-learn, Flask |
+| [TraWell](https://github.com/rohitbondala277/TraWell) | AI trip planner that generates day-by-day itineraries from destination, budget and group size, with Auth0 login and Firestore storage. | React, Gemini API, Firebase, Auth0 |
 
 ### Contact
 
 - LinkedIn: [linkedin.com/in/rohit-bondala](https://www.linkedin.com/in/rohit-bondala)
+- Email: b27rohit@gmail.com
 - Based in Melbourne, VIC
