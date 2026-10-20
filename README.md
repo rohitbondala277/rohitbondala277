@@ -2,7 +2,7 @@
 
 **Cloud & DevOps Engineer** | Melbourne, Australia
 
-Master of Information Technology (Professional) candidate at Deakin University, specialising in Networking and Cloud Technologies (completing October 2026). Bachelor's degree in Electronics and Communication Engineering, SRM University.
+Master of Information Technology (Professional) candidate at Deakin University, specialising in Networking and Cloud Technologies (completing October 2026). Bachelor of Technology in Electronics and Communication Engineering, SRM Institute of Science and Technology (2020 to 2024).
 
 Seeking graduate roles in **cloud, platform and DevOps engineering**, with full-stack development experience in React and Node.js.
 
