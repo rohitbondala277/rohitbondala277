@@ -1,8 +1,10 @@
-## Hi, I'm Rohit 👋
+# Rohit Bondala
 
-I'm finishing my Master of Information Technology at Deakin University in Melbourne, specialising in Cloud Computing and Network Infrastructure (graduating October 2026). Before that I did a Bachelor's in Electronics and Communication Engineering at SRM University.
+**Cloud & DevOps Engineer** | Melbourne, Australia
 
-I'm looking for graduate roles in **cloud, platform and DevOps engineering**, and I'm happy to jump into full-stack work too.
+Master of Information Technology (Professional) candidate at Deakin University, specialising in Networking and Cloud Technologies (completing October 2026). Bachelor's degree in Electronics and Communication Engineering, SRM University.
+
+Seeking graduate roles in **cloud, platform and DevOps engineering**, with full-stack development experience in React and Node.js.
 
 ### What I work with
 
