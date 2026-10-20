@@ -24,7 +24,7 @@ Seeking graduate roles in **cloud, platform and DevOps engineering**, with full-
 |---|---|---|
 | [Guardian](https://github.com/Gopher-Industries/Guardian/pulls?q=is%3Apr+author%3Arohitbondala277) | Deakin capstone with Gopher Industries: an activity monitoring system for aged care. Frontend developer on the React admin dashboard; built the Reports, Billing and Subscription pages and a multi-step Add New Patient form. | React 19, Vite, Android |
 | [Smishing Detection App](https://github.com/Hardhat-Enterprises/smishing-frontend/pulls?q=is%3Apr+author%3Arohitbondala277) | Deakin capstone with Hardhat Enterprises: an Android app that detects SMS phishing. Frontend developer and team lead; built the detection analytics dashboard, a password strength indicator and community report improvements across 5 merged PRs. | Java, Android |
-| [Sydney-Housing](https://github.com/rohitbondala277/Sydney-Housing) | Random Forest model predicting Sydney property sale prices from a hand-collected dataset of 105 sales, served through a Flask web app. | Python, scikit-learn, Flask |
+| [Sydney-Housing](https://github.com/rohitbondala277/Sydney-Housing) | Random Forest model predicting Sydney property sale prices, served through a Flask app. Containerised with Docker, with Terraform for Azure Container Apps and a GitHub Actions pipeline that tests, builds and deploys using passwordless OIDC. | Python, scikit-learn, Docker, Terraform, Azure, GitHub Actions |
 | [TraWell](https://github.com/rohitbondala277/TraWell) | AI trip planner that generates day-by-day itineraries from destination, budget and group size, with Auth0 login and Firestore storage. | React, Gemini API, Firebase, Auth0 |
 
 ### Contact
