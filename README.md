@@ -6,10 +6,10 @@ I'm looking for graduate roles in **cloud, platform and DevOps engineering**, an
 
 ### What I work with
 
-**Cloud and DevOps:** Azure, Azure DevOps, Kubernetes (AKS), Docker, Helm, Terraform, CI/CD pipelines, Prometheus and Grafana, RBAC/IAM
-**Scripting and languages:** Bash, PowerShell, Python, JavaScript
-**Web:** React, Vite, Node.js, Express, MySQL, MongoDB, Firebase
-**Data and ML:** pandas, scikit-learn, Jupyter, Flask
+- **Cloud and DevOps:** Azure, Azure DevOps, Kubernetes (AKS), Docker, Helm, Terraform, CI/CD pipelines, Prometheus and Grafana, RBAC/IAM
+- **Scripting and languages:** Bash, PowerShell, Python, JavaScript
+- **Web:** React, Vite, Node.js, Express, MySQL, MongoDB, Firebase
+- **Data and ML:** pandas, scikit-learn, Jupyter, Flask
 
 ### Experience
 
